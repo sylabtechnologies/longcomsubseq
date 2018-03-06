@@ -1,2 +1,2 @@
 # longcomsubseq
-Longest common subsequence
+Longest common subsequence - convert to dynamic programming routine
